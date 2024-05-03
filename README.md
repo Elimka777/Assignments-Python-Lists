@@ -1,5 +1,5 @@
 # Assignments: Python Lists
 
-Hello, hope you'll like it!
+Hello, hope you like it!
 
 Student: Elima
